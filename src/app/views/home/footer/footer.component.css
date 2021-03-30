@@ -1,0 +1,36 @@
+.fixedFooter {
+    background-color: #9691c79a;
+    display: inline-block;
+    bottom: 0;
+    position: fixed;
+    height: 5rem;
+    width: 100%;
+
+}
+
+.footerDiv{
+    height: auto;
+    width: 100%;
+    display: inline-block;
+    text-align: center;
+}
+
+.footerText{
+    font-family:'Courier New', Courier, monospace;
+    display: inline;
+}
+
+.linkText{
+    text-decoration: none;
+    font-variant:small-caps;
+
+}
+
+.gitHubText:hover{
+    color: aliceblue;
+}
+
+.gitHubText{
+    color: black;
+    padding: 5px;   
+}
